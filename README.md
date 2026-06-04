@@ -18,5 +18,7 @@ This project analyzes credit card fraud transactions using a dataset of 284,807 
 ## How to run
 pip install streamlit pandas plotly kaggle
 streamlit run app.py
-# Fraud-dashboard
-# Fraud-dashboard
+
+## Dashboard Preview
+![Dashboard](dashboard_screenshot.png)
+
